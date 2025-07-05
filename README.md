@@ -1,9 +1,8 @@
 # awt-odoo-addons-dev-guide
 
 [最佳實踐指南]（https://github.com/t-s-li/awt-odoo-addons-dev-guide/blob/main/best%20practice.md)
-
-
-
+[]()
+[]()
 [多個模組一次比對](https://github.com/t-s-li/awt-odoo-addons-dev-guide/blob/main/odoo_model_diff_multi_module.py)
 ✅ 支援「多個模組一次比對」的更新版腳本已完成：
 
