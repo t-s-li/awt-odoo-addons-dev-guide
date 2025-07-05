@@ -4,7 +4,7 @@
 
 
 
-[多個模組一次比對]()
+[多個模組一次比對](https://github.com/t-s-li/awt-odoo-addons-dev-guide/blob/main/odoo_model_diff_multi_module.py)
 ✅ 支援「多個模組一次比對」的更新版腳本已完成：
 
 📄 點此下載 odoo_model_diff_multi_module.py
