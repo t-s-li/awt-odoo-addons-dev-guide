@@ -28,4 +28,3 @@ python odoo_model_diff_multi_module.py
 
 ⸻
 
-需要我幫你做成 HTML 可預覽版報告嗎？或想支援更精細的欄位屬性變更（如 readonly, domain 差異）也可以！ ￼
